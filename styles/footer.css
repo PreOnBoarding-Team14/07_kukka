@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 footer {
   display: block;
 }
@@ -6,6 +8,7 @@ nav {
   display: block;
 }
 
+>>>>>>> f777c2a0775178d57f48e79d6886a299b2eed764
 dd,
 dl,
 dt,
@@ -189,9 +192,21 @@ nav {
 }
 
 .footer .footerWrap .footerInner {
+<<<<<<< HEAD
+<<<<<<< HEAD:styles/footer.css
   content: "";
   display: block;
   clear: both;
+=======
+  width: auto;
+  margin: 0 20px;
+  padding: 50px 0;
+>>>>>>> 66b14b504b5dca6e39c6480af17c03fe9754a28e:footer/footer.css
+=======
+  content: "";
+  display: block;
+  clear: both;
+>>>>>>> f777c2a0775178d57f48e79d6886a299b2eed764
 }
 
 .footer .footerWrap .footerInner .sectSns {
