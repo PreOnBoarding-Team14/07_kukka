@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+footer {
+  display: block;
+}
+
+nav {
+  display: block;
+}
+
+>>>>>>> f777c2a0775178d57f48e79d6886a299b2eed764
 dd,
 dl,
 dt,
@@ -81,7 +92,7 @@ nav {
 }
 
 .naviMobile .link .dl::before {
-  content: '';
+  content: "";
   display: block;
   margin: 0 auto;
 }
@@ -96,7 +107,7 @@ nav {
 }
 
 .naviMobile .link .dl.menu::before {
-  background-image: url('https://kukka-2-media-123.s3.amazonaws.com/static/kukkart_new/img/sprite/kukka.png');
+  background-image: url("https://kukka-2-media-123.s3.amazonaws.com/static/kukkart_new/img/sprite/kukka.png");
   background-size: 626px 422.5px;
   width: 17px;
   height: 13px;
@@ -109,7 +120,7 @@ nav {
 }
 
 .naviMobile .link .dl.event::before {
-  background-image: url('https://kukka-2-media-123.s3.amazonaws.com/static/kukkart_new/img/sprite/kukka.png');
+  background-image: url("https://kukka-2-media-123.s3.amazonaws.com/static/kukkart_new/img/sprite/kukka.png");
   background-size: 626px 422.5px;
   width: 24px;
   height: 24px;
@@ -122,7 +133,7 @@ nav {
 }
 
 .naviMobile .link .dl.my::before {
-  background-image: url('https://kukka-2-media-123.s3.amazonaws.com/static/kukkart_new/img/sprite/kukka.png');
+  background-image: url("https://kukka-2-media-123.s3.amazonaws.com/static/kukkart_new/img/sprite/kukka.png");
   background-size: 626px 422.5px;
   width: 24px;
   height: 24px;
@@ -139,7 +150,7 @@ nav {
 }
 
 .naviMobile .link .dl.cart::before {
-  background-image: url('https://kukka-2-media-123.s3.amazonaws.com/static/kukkart_new/img/sprite/kukka.png');
+  background-image: url("https://kukka-2-media-123.s3.amazonaws.com/static/kukkart_new/img/sprite/kukka.png");
   background-size: 626px 422.5px;
   width: 17px;
   height: 19px;
@@ -176,10 +187,12 @@ nav {
 
 .footer .footerWrap {
   margin-top: 52px;
+  padding: 80px 20px;
   background-color: #222;
 }
 
 .footer .footerWrap .footerInner {
+<<<<<<< HEAD
 <<<<<<< HEAD:styles/footer.css
   content: "";
   display: block;
@@ -189,6 +202,11 @@ nav {
   margin: 0 20px;
   padding: 50px 0;
 >>>>>>> 66b14b504b5dca6e39c6480af17c03fe9754a28e:footer/footer.css
+=======
+  content: "";
+  display: block;
+  clear: both;
+>>>>>>> f777c2a0775178d57f48e79d6886a299b2eed764
 }
 
 .footer .footerWrap .footerInner .sectSns {
