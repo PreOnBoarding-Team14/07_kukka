@@ -171,7 +171,6 @@ function removeAllChildNodes(parent) {
 function removeProduct() {
   removeAllChildNodes(topDescriptionBox);
   removeAllChildNodes(bottomDescriptionBox);
-  //   bottomDescriptionBox.children.remove();
 }
 
 const leftButton = document.querySelector(".leftButton");
