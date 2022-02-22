@@ -22,6 +22,8 @@ function onFlowerClassScroll() {
   window.scrollTo(0, 800);
 }
 
+smoothscroll.polyfill();
+
 window.addEventListener("scroll", onScroll);
 headerVideo.addEventListener("click", onVideoScroll);
 headerFlowerClass.addEventListener("click", onFlowerClassScroll);
